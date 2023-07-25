@@ -9,4 +9,7 @@ foam_template:
   name: Article
 ---
 
-# 
+# Mozna napisać zupełnie co się chce poza za 'z' 
+
+inna forma artykułu 
+  

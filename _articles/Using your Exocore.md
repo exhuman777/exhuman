@@ -2,8 +2,8 @@
 published: true
 subtitle:
 topic:
-date: 2022-04-13
-tags: meta computers exocore
+date: 2027-07-07
+tags: przyśpieszenie komputer internet człowiek informacja materia energia
 ---
 # Using your Exocore
 
