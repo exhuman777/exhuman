@@ -3,15 +3,11 @@ layout: home
 title: Home
 ---
 
-# The Exocore Package
-
 [![](/images/exocore.png)](/articles/exocore%20installation%20instructions/)
 
-## Czym jest Research Core
+## Czym jest Research Core 
 
-The exocore is a preconfigured package to roll out your own no-code, no-cost personal website as a public exocortex from documents written in simple Markdown syntax, including interlinking, generated backlinks and a nodal graph-rendering. Site's are rendered in fast, responsive, standards-compliant static HTML. 
-
-Research Core jest pojęciem wymyślonym przez [Exhuman](https://twitter.com/3xhuman) by opisać działanie polegające na ukazaniu obecnego "smaku i zapachu" rzeczywistości poprzez zbieranie i katalogowanie linków www, PDFów, wiedzy, zdjęć,... (informacji) -- ich przetwarzanie, analizowanie, łączanie w nieoczywiste modele -- i poprzez alchemiczny proces ekstrahowania dochodzenie do odkrycia przyszłych "upodobań ludzkości" względem konsumpcji rzeczywistości o konkretnym "smaku, i zapachu". 
+Research Core to pojęcie wymyślonym przez [Exhuman](https://twitter.com/3xhuman) by opisać działanie polegające na ukazaniu obecnego "smaku i zapachu" rzeczywistości poprzez zbieranie i katalogowanie linków www, PDFów, wiedzy, zdjęć,... (informacji) -- ich przetwarzanie, analizowanie, łączanie w nieoczywiste modele -- i poprzez alchemiczny proces ekstrahowania dochodzenie do odkrycia przyszłych "upodobań ludzkości" względem konsumpcji rzeczywistości o konkretnym "smaku, i zapachu". 
 
 ## Teza Research Core
 
