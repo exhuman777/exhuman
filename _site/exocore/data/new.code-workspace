@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../../../_articles"
+		},
+		{
+			"path": "../../../_daily"
+		},
+		{
+			"path": "../../../_journal"
+		},
+		{
+			"path": "../../../_scrapbook"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../_wiki"
+		},
+		{
+			"path": "../../../assets"
+		},
+		{
+			"path": "../../../exocore"
+		},
+		{
+			"path": "../../../images"
+		},
+		{
+			"path": "../../../library"
+		},
+		{
+			"path": "../../../pages"
+		}
+	]
+}
