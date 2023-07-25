@@ -11,11 +11,11 @@ profile_link: /
 
 
 # The user image displayed on your profile card. You can edit this by dropping an image with the name 'pfp.png' into 'assets/imgs', or editing the path below:
-profile_pic: https://i.seadn.io/gcs/files/e3409a01a7ee012472603c467d68240f.png?auto=format&dpr=1&w=1000
+profile_pic: 
 
 
 # The header that will be displayed on your homepage:
-welcome_header: Mój internetowy pamiętnik
+welcome_header: internetowy pamiętnik exhuman
 
 
 # The subtitle to the above header on your homepage:
